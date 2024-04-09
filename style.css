@@ -54,5 +54,5 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-attachment: hsl(0, 0%, 95%);
+  background-color: black;
 }
